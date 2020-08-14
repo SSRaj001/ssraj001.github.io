@@ -1,5 +1,6 @@
-.col1 .col2 .co3 {
-    width: 97%;
+h1 {
+    text-align: center; 
+    font-family: Candara;
 }
 
 .parent {
@@ -16,10 +17,23 @@
     float: left;
 }
 
+#b1{
+    background-color:palegoldenrod;
+}
+
+#b2 {
+    background-color: brown;
+}
+
+#b3 {
+    background-color: cornflowerblue;
+}
+
 p{
     width : 100%;
     margin-top: auto;
     margin-left: auto;
+    font-family: Candara;
 }
 
 .cover .inside { 
